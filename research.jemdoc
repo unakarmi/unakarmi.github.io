@@ -7,7 +7,7 @@ with applications to Biomedical Imaging, Healthcare and Medicine.
 \n
 *Model-aware Efficient Deep Learning*
 ~~
-{}{img_left}{DeepLearning.png}{alt text}{500}{200}{}
+{}{img_left}{Deeplearning.png}{alt text}{500}{200}{}
 Data-centric deep learning techniques have shown tremendous potential across several research fields and applications such as computer vision, medical imaging, knowledge discovery, etc. However, many DL
 techniques are system model agnostic that leads to inefficient architectures, lack of interpretability and lack of robustness. In our research we focus on:\n
 - Integrating model and system information in data-centric deep learning models to reduce excessive data and supervision demands.\n
